@@ -15,16 +15,16 @@
     },
     {
       "id": 2,
-      "content": "lowdb is awesome",
-      "type": 2,
+      "content": "Given a €1,000,000 investment for four years with a stated annual rate of 3% compounded continuously, the difference in its interest earnings compared with the same investment compounded daily is closest to:",
+      "type": 10,
       "img": "",
       "option": [
-        "a",
-        "b",
-        "c"
+        "1",
+        "6",
+        "455"
       ],
-      "answer": 1,
-      "jieda": "answer"
+      "answer": 2,
+      "jieda": "B is correct. "
     }
   ]
 }
