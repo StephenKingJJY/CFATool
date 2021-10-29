@@ -2,16 +2,16 @@
   "quizzes": [
     {
       "id": 1,
-      "content": "An interest rate is best interpreted as:",
+      "content": "For a lump sum investment of ¥250,000 invested at a stated annual rate of 3% compounded daily, the number of months needed to grow the sum to ¥1,000,000 is closest to:",
       "type": 10,
       "img": "",
       "option": [
-        "a discount rate or a measure of risk.",
-        "a measure of risk or a required rate of return.",
-        "a required rate of return or the opportunity cost of consumption."
+        "555.",
+        "563.",
+        "576."
       ],
       "answer": 1,
-      "jieda": "正确答案是A."
+      "jieda": "A is correct."
     },
     {
       "id": 2,
