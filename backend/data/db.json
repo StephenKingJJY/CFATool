@@ -1,0 +1,30 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "content": "An interest rate is best interpreted as:",
+      "type": 10,
+      "img": "",
+      "option": [
+        "a discount rate or a measure of risk.",
+        "a measure of risk or a required rate of return.",
+        "a required rate of return or the opportunity cost of consumption."
+      ],
+      "answer": 1,
+      "jieda": "正确答案是A."
+    },
+    {
+      "id": 2,
+      "content": "lowdb is awesome",
+      "type": 2,
+      "img": "",
+      "option": [
+        "a",
+        "b",
+        "c"
+      ],
+      "answer": 1,
+      "jieda": "answer"
+    }
+  ]
+}
