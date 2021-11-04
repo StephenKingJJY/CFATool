@@ -38,6 +38,19 @@
       ],
       "answer":2,
       "jieda":"B is correct"
+    },
+    {
+      "id":4,
+      "content":"The present value (PV) of an investment with the following year-end cash flows (CF) and a 12% required annual rate of return is closest to:1(100000)2(150000)5(-10000)",
+      "type":10,
+      "img":"",
+      "option":[
+        "201,747",
+        "203,191",
+        "227,573"
+      ],
+      "answer":2,
+      "jieda":"B is correct"
     }
   ]
 }
