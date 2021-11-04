@@ -25,6 +25,19 @@
       ],
       "answer": 2,
       "jieda": "B is correct. "
+    },
+    {
+      "id":3,
+      "content":" A perpetual preferred stock makes its first quarterly dividend payment of $2.00 in five quarters. If the required annual rate of return is 6% compounded quarterly, the stock’s present value is closest to:",
+      "type":10,
+      "img":"",
+      "option":[
+        "31",
+        "126",
+        "133"
+      ],
+      "answer":2,
+      "jieda":"B is correct"
     }
   ]
 }
