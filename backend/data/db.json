@@ -64,6 +64,19 @@
       ],
       "answer":1,
       "jieda":"A is correct"
+    },
+    {
+      "id":6,
+      "content":"A fixed-income analyst uses a proprietary model to estimate bankruptcy probabilities for a group of firms. The model generates probabilities that can take any value between 0 and 1. The resulting set of estimated probabilities would most likely be characterized as:",
+      "type":10,
+      "img":"",
+      "option":[
+        "ordinal data",
+        "discrete data",
+        "continuous data"
+      ],
+      "answer":3,
+      "jieda":"C is correct"
     }
   ]
 }
