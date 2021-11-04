@@ -51,6 +51,19 @@
       ],
       "answer":2,
       "jieda":"B is correct"
+    },
+    {
+      "id":5,
+      "content":"Given a stated annual interest rate of 6% compounded quarterly, the level amount that, deposited quarterly, will grow to £25,000 at the end of 10 years is closest to:",
+      "type":10,
+      "img":"",
+      "option":[
+        "461",
+        "474",
+        "836"
+      ],
+      "answer":1,
+      "jieda":"A is correct"
     }
   ]
 }
