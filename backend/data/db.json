@@ -77,6 +77,19 @@
       ],
       "answer":3,
       "jieda":"C is correct"
+    },
+    {
+      "id":7,
+      "content":"An analyst uses a software program to analyze unstructured data—specifically, management’s earnings call transcript for one of the companies in her research coverage. The program scans the words in each sentence of the transcript and then classifies the sentences as having negative, neutral, or positive sentiment. The resulting set of sentiment data would most likely be characterized as:",
+      "type":10,
+      "img":"",
+      "option":[
+        "ordinal data",
+        "discrete data",
+        "nominal data"
+      ],
+      "answer":1,
+      "jieda":"A is correct"
     }
   ]
 }
