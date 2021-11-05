@@ -116,6 +116,19 @@
       ],
       "answer":2,
       "jieda":"B is correct"
+    },
+    {
+      "id":10,
+      "content":"Which valuation tool is recommended to be used if the goal is to make comparisons of three or more variables over time?",
+      "type":10,
+      "img":"",
+      "option":[
+        "Heat map",
+        "Bubble line chart",
+        "Scatter plot matrix"
+      ],
+      "answer":2,
+      "jieda":"B is correct"
     }
   ]
 }
